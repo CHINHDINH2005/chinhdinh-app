@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title('Interactive Dashboard')
 st.header('Nhóm: Đinh Văn Chính, Nguyễn Quốc Khánh, Nguyễn Xuân Toàn ')
-st.header('Link website: http://localhost:8501/')
+st.header('Link website: https://demoungdung.streamlit.app/')
 st.header("Interactive Dashboard")
 st.subheader("Interact with this dashboard using the widgets on the sidebar")
 
